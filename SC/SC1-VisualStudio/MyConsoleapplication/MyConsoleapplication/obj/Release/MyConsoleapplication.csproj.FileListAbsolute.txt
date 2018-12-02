@@ -1,0 +1,7 @@
+C:\Users\Busyona\source\repos\MyConsoleapplication\MyConsoleapplication\bin\Release\MyConsoleapplication.exe.config
+C:\Users\Busyona\source\repos\MyConsoleapplication\MyConsoleapplication\bin\Release\MyConsoleapplication.exe
+C:\Users\Busyona\source\repos\MyConsoleapplication\MyConsoleapplication\bin\Release\MyConsoleapplication.pdb
+C:\Users\Busyona\source\repos\MyConsoleapplication\MyConsoleapplication\obj\Release\MyConsoleapplication.csprojAssemblyReference.cache
+C:\Users\Busyona\source\repos\MyConsoleapplication\MyConsoleapplication\obj\Release\MyConsoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\Busyona\source\repos\MyConsoleapplication\MyConsoleapplication\obj\Release\MyConsoleapplication.exe
+C:\Users\Busyona\source\repos\MyConsoleapplication\MyConsoleapplication\obj\Release\MyConsoleapplication.pdb
