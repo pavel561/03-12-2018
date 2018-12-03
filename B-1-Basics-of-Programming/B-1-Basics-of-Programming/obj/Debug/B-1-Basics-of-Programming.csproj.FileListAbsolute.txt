@@ -1,0 +1,7 @@
+d:\ITAcademy\03-12-2018\GIT\B-1-Basics-of-Programming\B-1-Basics-of-Programming\bin\Debug\B-1-Basics-of-Programming.exe.config
+d:\ITAcademy\03-12-2018\GIT\B-1-Basics-of-Programming\B-1-Basics-of-Programming\bin\Debug\B-1-Basics-of-Programming.exe
+d:\ITAcademy\03-12-2018\GIT\B-1-Basics-of-Programming\B-1-Basics-of-Programming\bin\Debug\B-1-Basics-of-Programming.pdb
+d:\ITAcademy\03-12-2018\GIT\B-1-Basics-of-Programming\B-1-Basics-of-Programming\obj\Debug\B-1-Basics-of-Programming.csprojAssemblyReference.cache
+d:\ITAcademy\03-12-2018\GIT\B-1-Basics-of-Programming\B-1-Basics-of-Programming\obj\Debug\B-1-Basics-of-Programming.csproj.CoreCompileInputs.cache
+d:\ITAcademy\03-12-2018\GIT\B-1-Basics-of-Programming\B-1-Basics-of-Programming\obj\Debug\B-1-Basics-of-Programming.exe
+d:\ITAcademy\03-12-2018\GIT\B-1-Basics-of-Programming\B-1-Basics-of-Programming\obj\Debug\B-1-Basics-of-Programming.pdb
