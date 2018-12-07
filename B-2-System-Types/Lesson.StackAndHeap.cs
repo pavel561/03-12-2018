@@ -21,11 +21,29 @@ namespace ConsoleApp7
         {
             string flat = "34";
 
+            int flatNuber = int.Parse(flat);
+            int flatNuber2 = Convert.ToInt32(flat);
+
+            
+
+            //int flatNuber3 = int.Parse("ewe");
+            //int flatNuber4 = Convert.ToInt32("sdfdf");
+
+            //int flatNumber = flat;
+
             char sex = 'М';
+            //string sexstrin = sex;
+            int sexInt = sex;
+            string sexstrin = Convert.ToString(sex);
+
+            char place = '3';
+            int place2 = place;
 
             double percent = 75.5;
+            int prersent = (int)percent;
 
             int weight = 55;
+            float weihtInt = weight;
         }
 
         public static void TypeToConvertExample()
