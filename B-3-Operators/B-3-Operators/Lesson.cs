@@ -83,8 +83,11 @@ namespace B_3_Operators
             Console.WriteLine(sizeof(int));
             Console.WriteLine(sizeof(bool));
 
+            //Console.WriteLine(sizeof(x1));
+
+
             #endregion
-            
+
             #region typeof
 
             Console.WriteLine("#region typeof");
@@ -140,8 +143,8 @@ namespace B_3_Operators
 
             Console.WriteLine("#region &| with numbers");
 
-            int a = 0x0111/*7*/;
-            int b = 0x1001/*9*/;
+            int a = 0b0111/*7*/;
+            int b = 0b1001/*9*/;
 
             int d = a & b/*0x0001*//*1*/;
             int e = a | b/*0x1111*//*15*/;

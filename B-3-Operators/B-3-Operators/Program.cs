@@ -18,6 +18,8 @@ namespace B_3_Operators
             //Practice.B3_P8_9_CircleArea();
             //Practice.B3_P9_9_CreaditCalculator();
 
+            Lesson.Examples();
+
             Console.ReadLine();
         }
     }
