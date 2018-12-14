@@ -8,6 +8,10 @@ namespace B_3_Operators
         {
             Lesson.Examples();
 
+			Console.WriteLine("Hello, World");
+			Console.WriteLine("Fork and pull request test");
+
+
             //Practice.B3_P1_9_NumbersAddition();
             //Practice.B3_P2_9_CheckResultAddition();
             //Practice.B3_P3_9_CheckResultAdditionWithTips();
